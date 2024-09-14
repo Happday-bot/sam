@@ -1,9 +1,6 @@
-<script
-	type="module"
-	src="https://nordcdn.net/ds/components/3.17.0/index.js"
-	integrity="sha384-eme6DjBrFKzjO5DCscEfRDzjbMLA/MR4OcmSj48jogyZHps2ujPBo8+EdOZgEELg"
-	crossorigin="anonymous"
-></script>
+<script>
+	import '../app.css';
+</script>
 
 <h1>Hi There Sam, this is a change i made!!!</h1>
 <link
