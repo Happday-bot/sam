@@ -39,7 +39,9 @@
 		"clsx": "^2.1.1",
 		"lucide-svelte": "^0.441.0",
 		"maplibre-gl": "^4.7.0",
+		"radix-svelte": "^0.9.0",
 		"svelte-maplibre": "^0.9.13",
+		"svelte-radix": "^1.1.1",
 		"tailwind-merge": "^2.5.2",
 		"tailwind-variants": "^0.2.1"
 	}
